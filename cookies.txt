@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.facebook.com	TRUE	/	FALSE	1999999999	datr	zdv0Ub8AhA0ZoCjl1kfYtQsU
+.facebook.com	TRUE	/	FALSE	1999999999	reg_fb_gate	https%3A%2F%2Fwww.facebook.com%2Fopenhome.cc
+live.com	TRUE	/	FALSE	1999999999	RVC	m=0&v=17.1.6723.0&t=07/28/2013 08:54:51
+.live.com	TRUE	/	FALSE	1999999999	xid	01c99345-d672-4749-99f2-ce70f32107bc&&BAYxx1W003&252
+.live.com	TRUE	/	FALSE	1999999999	E	P:PzSrQYdZ0Ig=:kKAVPMi1g+4ebjN2jSflRMJqGFc72sAFDYuC1Anh1Fk=:F
+.live.com	TRUE	/	FALSE	1999999999	xidseq	2
+live.com	TRUE	/	FALSE	1999999999	wla42	Ymx1MSoxLEVBQkRGOTNBQTcyQUNCRDQsMCwsMCwtMSwtMQ==
+www.ics.uci.edu	TRUE	/	FALSE	1999999999	Coyote-2-80c30153	80c30193:0
+ftp.ics.uci.edu	TRUE	/	FALSE	1999999999	Coyote-2-80c3010d	80c30133:0
+.facebook.com	TRUE	/	FALSE	1999999999	reg_ext_ref	http%3A%2F%2Fopenhome.cc%2FGossip%2F
+.facebook.com	TRUE	/	FALSE	1999999999	reg_fb_ref	https%3A%2F%2Fhe-il.facebook.com%2Fopenhome.cc
+

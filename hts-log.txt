@@ -1,0 +1,61 @@
+HTTrack3.46+libhtsjava.so.2 launched on Sun, 28 Jul 2013 16:52:27 at http://openhome.cc/Gossip/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://openhome.cc/Gossip/ -O "/home/shihyu/websites/Gossip" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2008], %s -->" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:16:15	Error: 	"Not Found" (404) at link openhome.cc/Gossip/Rails/GemBundler.html (from openhome.cc/Gossip/Rails/)
+17:18:21	Error: 	"Not Found" (404) at link openhome.cc/Gossip/EJB3Gossip/'http://openhome.cc/Gossip/EJB3Gossip/' (from openhome.cc/Gossip/EJB3Gossip/EJB3Gossip.html)
+17:21:44	Error: 	"Not Found" (404) at link openhome.cc/Gossip/HibernateGossip/ContainerLazyInitialization.html (from openhome.cc/Gossip/HibernateGossip/)
+17:21:57	Warning: 	file not stored in cache due to bogus state (incomplete type): openhome.cc/Gossip/Encoding/samples/Ajax-1.php?
+17:21:57	Error: 	"Not Found" (404) at link openhome.cc/Gossip/CGossip/ConsoleIO.html (from openhome.cc/Gossip/CGossip/Datatype.html)
+17:21:57	Error: 	"Not Found" (404) at link openhome.cc/Gossip/CGossip/'http://openhome.cc/Gossip/CGossip/' (from openhome.cc/Gossip/CGossip/CGossip.html)
+17:21:57	Error: 	"Not Found" (404) at link openhome.cc/Gossip/CppGossip/http://openhome.cc/Gossip/CppGossip (from openhome.cc/Gossip/CGossip/CGossip.html)
+17:21:57	Error: 	"Not Found" (404) at link openhome.cc/Gossip/GTKGossip/GtkViewport.html (from openhome.cc/Gossip/GTKGossip/GtkScrolledWindow.html)
+17:21:57	Error: 	"Not Found" (404) at link openhome.cc/Gossip/Qt3Gossip/'http://openhome.cc/Gossip/Qt3Gossip/' (from openhome.cc/Gossip/Qt3Gossip/Qt3Gossip.html)
+17:22:17	Error: 	"Not Found" (404) at link openhome.cc/Gossip/JavaGossip-V1/AddMethodToEnum?action=print (from openhome.cc/Gossip/JavaGossip-V1/ValueSpecificClassBodies.htm)
+17:22:17	Error: 	"Not Found" (404) at link openhome.cc/Gossip/JSPServlet/ControllerExample.htm (from openhome.cc/Gossip/JavaGossip-V2/HashMap.htm)
+17:22:17	Error: 	"Not Found" (404) at link openhome.cc/Gossip/Ruby/www.ruby-doc.org/core-1.9.2/Enumerable.html (from openhome.cc/Gossip/Ruby/Module.html)
+17:22:17	Error: 	"Not Found" (404) at link openhome.cc/Gossip/Ruby/BlockProc.html (from openhome.cc/Gossip/Ruby/Lamdba.html)
+17:22:17	Error: 	"Not Found" (404) at link openhome.cc/Gossip/Rails/%20http://edgeguides.rubyonrails.org/configuring.html (from openhome.cc/Gossip/Rails/Environments.html)
+17:22:18	Warning: 	file not stored in cache due to bogus state (incomplete type): openhome.cc/Gossip/JavaScript/samples/GET-2.php?
+17:22:19	Warning: 	file not stored in cache due to bogus state (incomplete type): openhome.cc/Gossip/JavaScript/samples/GET-2.php
+17:22:21	Error: 	"Not Found" (404) at link openhome.cc/Gossip/JSPServlet/ExpressioLanguage.htm (from openhome.cc/Gossip/JSF/BackingBeans.htm)
+17:22:21	Error: 	"Not Found" (404) at link openhome.cc/Gossip/JSPServlet/ServletContainer.htm (from openhome.cc/Gossip/EJB3Gossip/LoadEARModuleClass.html)
+17:22:21	Error: 	"Not Found" (404) at link openhome.cc/Gossip/EJB3Gossip/FirstContainManagedJPA.html (from openhome.cc/Gossip/EJB3Gossip/ServletJPA.html)
+17:22:21	Error: 	"Not Found" (404) at link openhome.cc/Gossip/JUnit/JndiBasedDBTestCase (from openhome.cc/Gossip/JUnit/DatabaseTestCase.html)
+17:22:21	Error: 	"Not Found" (404) at link openhome.cc/Gossip/JSPServlet/FilterOne.htm (from openhome.cc/Gossip/Struts/LookupDispatchAction.htm)
+17:22:22	Error: 	"Not Found" (404) at link openhome.cc/Gossip/SpringGossip/'http://openhome.cc/Gossip/SpringGossip/' (from openhome.cc/Gossip/SpringGossip/SpringGossip.html)
+17:22:22	Error: 	"Not Found" (404) at link openhome.cc/Gossip/JSPServlet/DBCPConnection.htm (from openhome.cc/Gossip/HibernateGossip/DatabaseConnection.html)
+17:22:22	Error: 	"Not Found" (404) at link openhome.cc/Gossip/Qt4Gossip/'http://openhome.cc/Gossip/Qt4Gossip/' (from openhome.cc/Gossip/Qt4Gossip/Qt4Gossip.html)
+17:24:31	Error: 	"Not Found" (404) at link openhome.cc/Gossip/DesignPattern/'http://openhome.cc/Gossip/DesignPattern/' (from openhome.cc/Gossip/DesignPattern/DesignPattern.htm)
+17:24:31	Error: 	"Not Found" (404) at link openhome.cc/Gossip/HibernateGossip/'http://openhome.cc/Gossip/HibernateGossip/' (from openhome.cc/Gossip/HibernateGossip/HibernateGossip.html)
+17:24:31	Error: 	"Not Found" (404) at link openhome.cc/Gossip/Struts/'http://openhome.cc/Gossip/Struts/' (from openhome.cc/Gossip/Struts/StrutsGossip.htm)
+17:24:31	Error: 	"Not Found" (404) at link openhome.cc/Gossip/JSF/'http://openhome.cc/Gossip/JSF/' (from openhome.cc/Gossip/JSF/JavaServerFaces.htm)
+17:24:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.google-analytics.com/urchin.js
+17:31:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): platform.twitter.com/widgets.js
+17:33:46	Error: 	"Not Found" (404) at link openhome.cc/Gossip/MomoTetrix/Paused - http://openhome.cc (from openhome.cc/Gossip/MomoTetrix/MomoTetrix.html)
+17:33:48	Error: 	"Not Found" (404) at link crd-legacy.lbl.gov/~dhbailey/piqp.c (from openhome.cc/Gossip/AlgorithmGossip/LongPI.htm)
+17:33:48	Error: 	"Forbidden" (403) at link zh.wikipedia.org/wiki/File:Sorting_heapsort_anim.gif (from openhome.cc/Gossip/AlgorithmGossip/HeapSort.htm)
+17:34:00	Error: 	"Not Found" (404) at link ftp.ics.uci.edu/pub/ietf/http/related/iso639.txt (from openhome.cc/Gossip/Encoding/ResourceBundle.html)
+17:34:02	Error: 	"" (404) at link openhome.cc/Gossip/CGossip/ConsoleIO.html (from openhome.cc/Gossip/CGossip/Datatype.html)
+17:34:03	Error: 	"" (404) at link openhome.cc/Gossip/CGossip/'http://openhome.cc/Gossip/CGossip/' (from openhome.cc/Gossip/CGossip/CGossip.html)
+17:36:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): upload.wikimedia.org/wikipedia/en/thumb/8/89/Resttriangle.svg/273px-Resttriangle.svg.png
+17:38:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fbstatic-a.akamaihd.net/rsrc.php/yV/r/hzMapiNYYpW.ico
+17:42:40	Error: 	"" (404) at link openhome.cc/Gossip/GTKGossip/GtkViewport.html (from openhome.cc/Gossip/GTKGossip/GtkScrolledWindow.html)
+17:42:48	Error: 	"" (404) at link openhome.cc/Gossip/Rails/%20http://edgeguides.rubyonrails.org/configuring.html (from openhome.cc/Gossip/Rails/Environments.html)
+17:42:53	Error: 	"" (404) at link openhome.cc/Gossip/JSPServlet/ServletContainer.htm (from openhome.cc/Gossip/EJB3Gossip/LoadEARModuleClass.html)
+17:42:54	Error: 	"" (404) at link openhome.cc/Gossip/JUnit/JndiBasedDBTestCase (from openhome.cc/Gossip/JUnit/DatabaseTestCase.html)
+17:45:19	Error: 	"" (404) at link openhome.cc/Gossip/JSPServlet/FilterOne.htm (from openhome.cc/Gossip/Struts/LookupDispatchAction.htm)
+17:45:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://sites.google.com/site/caterpillarprogram/_/rsrc/1374046520000/system/app/images/spinner.gif
+17:45:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://sites.google.com/site/caterpillarprogram/_/rsrc/1374046520000/system/app/images/camelot.png
+17:45:25	Error: 	"Unable to get server's address: No such file or directory" (-5) after 2 retries at link dessent.net/tmp/gcc-vista-3.4.5-20060117-1.tar.gz (from openhome.cc/Gossip/Qt4Gossip/WindowsInstallQt4.html)
+17:45:25	Error: 	"Unable to get server's address: No such file or directory" (-5) after 2 retries at link dl.njfiw.gov.cn/books/%CA%D6%BB%FA%C8%ED%BC%FE%BF%AA%B7%A2/CSDN%D5%C6%C9%CF%BF%AA%B7%A2%D7%A8%D2%B5%BD%B2%D7%F9%BD%B2%D2%E5%D7%CA%C1%CF/JAVA_CH_02_TC.pdf (from openhome.cc/Gossip/JavaGossip-V2/IntroduceClassLoader.htm)
+17:45:25	Error: 	"Not Found" (404) at link docs.google.com/images/env.png (from https://sites.google.com/site/caterpillarprogram/_/rsrc/1374046520000/system/app/css/camelot/error.css)
+17:45:25	Error: 	"Unable to get server's address: No such file or directory" (-5) after 2 retries at link caterpillar.onlyfun.net/Gossip/images/caterpillar_small.jpg (from openhome.cc/Gossip/JavaScript/samples/ModifyNodes-2.html)
+
+HTTrack Website Copier/3.46 mirror complete in 53 minutes 0 seconds : 2683 links scanned, 2717 files written (115932041 bytes overall) [81230215 bytes received at 25544 bytes/sec], 42411392 bytes transfered using HTTP compression in 78 files, ratio 17%, 11.2 requests per connection
+(40 errors, 9 warnings, 0 messages)
+17:45:27	Info: 	Top index rebuilt (done)
